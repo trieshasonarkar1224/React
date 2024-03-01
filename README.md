@@ -66,7 +66,7 @@ https://github.com/trieshasonarkar1224/React/assets/147965443/12007eb2-f5a8-49c0
 ✮[14] Passing Functions Via Props
 <br>
 
-<video controls src="Passing Functions Via Props.mp4" title="Title"></video>
+https://github.com/trieshasonarkar1224/React/assets/147965443/5f58d1ca-3ab2-47f0-b6cf-1a89141dc200
 
 ✮[15] State Vs Props
 <br>
