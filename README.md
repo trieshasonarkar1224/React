@@ -84,5 +84,4 @@ https://github.com/trieshasonarkar1224/React/assets/147965443/5f58d1ca-3ab2-47f0
 
 ✮[19] Exercise: Showing an Alert
 
-<video controls src="2024-03-01-13-45-40.mp4" title="Title"></video>
-
+https://github.com/trieshasonarkar1224/React/assets/147965443/772d314c-2238-4401-a9b2-4ae442633188
