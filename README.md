@@ -58,7 +58,7 @@ Enlisted below are the things I learnt today. 👇
 ✮[12] Managing State
 <br>
 
-<video controls src="Managing State.mp4" title="Title"></video>
+https://github.com/trieshasonarkar1224/React/assets/147965443/12007eb2-f5a8-49c0-9cc1-8a1e212ee5a2
 
 ✮[13] Passing Data Via Props
 <br>
